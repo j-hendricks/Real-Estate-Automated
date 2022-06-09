@@ -1,7 +1,7 @@
 # Real-Estate-Automated
 Find your dream home with the click of a button! Using realtor data for 100,000 homes across the United States, this VBA macro will provide a list of homes that are good match for you. All you have to do is: click the button on the first Excel sheet, type the city that you wish to live, then type your budget. The list includes the full address, the price, number of bedrooms, number of sqare ft, and more! A message will appear when the program has found all possible matches and will provide the user with further instructions.
 
-Below is the link to the Excel file containing the program.
+To run the program, follow this link:
 ![realtor-analysis](realtor-analysis.xlsm)
 
 ## Requirements
